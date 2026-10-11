@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Arjun Varma | Technology, AI & Architecture</title>
+  <meta name="description" content="Arjun Varma's personal website — technology architecture, AI, writing, projects and mentoring.">
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      max-width: 760px;
+      margin: 90px auto;
+      padding: 0 24px;
+      color: #202938;
+      line-height: 1.7;
+    }
+    h1 { font-size: 3rem; margin-bottom: 0; }
+    h2 { margin-top: 40px; }
+    a { color: #2563eb; }
+    .intro { color: #64748b; font-size: 1.2rem; }
+    footer { margin-top: 70px; color: #64748b; }
+  </style>
+</head>
+<body>
+  <h1>Arjun Varma</h1>
+  <p class="intro">AI Architect | Lead Forward Deployed Engineer | AI Enthusiast | Mentor</p>
+
+  <p>
+    Welcome to my personal space for sharing ideas,
+    exploring technology, building projects, and
+    connecting with people.
+  </p>
+
+  <h2>Explore</h2>
+  <p>
+    <a href="https://arjunsworld.substack.com/">Writing</a> ·
+    <a href="https://www.linkedin.com/">LinkedIn</a>
+  </p>
+
+  <h2>What's next?</h2>
+  <p>
+    More on enterprise architecture, AI,
+    projects, and career mentoring coming soon.
+  </p>
+
+  <footer>© 2026 Arjun Varma</footer>
+</body>
+</html>
